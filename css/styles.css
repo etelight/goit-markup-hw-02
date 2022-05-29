@@ -79,6 +79,8 @@ body {
   font-size: 44px;
   line-height: 1.36;
   letter-spacing: 0.06em;
+  text-transform: uppercase;
+
   color: var(--second-title-color);
 }
 .hero-btn {
