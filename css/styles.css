@@ -29,6 +29,10 @@ body {
   color: var(--accent-color);
 }
 
+.hidden-element {
+  opacity: 0;
+}
+
 /* ------Header */
 
 .logo-header {
